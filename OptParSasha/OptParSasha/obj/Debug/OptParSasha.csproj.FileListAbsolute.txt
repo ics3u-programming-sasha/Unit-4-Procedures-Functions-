@@ -1,0 +1,10 @@
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\OptParSasha\OptParSasha\bin\Debug\OptParSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\OptParSasha\OptParSasha\bin\Debug\OptParSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\OptParSasha\OptParSasha\bin\Debug\OptParSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\OptParSasha\OptParSasha\obj\Debug\OptParSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\OptParSasha\OptParSasha\obj\Debug\OptParSasha.frmOptPar.resources
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\OptParSasha\OptParSasha\obj\Debug\OptParSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\OptParSasha\OptParSasha\obj\Debug\OptParSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\OptParSasha\OptParSasha\obj\Debug\OptParSasha.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\OptParSasha\OptParSasha\obj\Debug\OptParSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\OptParSasha\OptParSasha\obj\Debug\OptParSasha.pdb

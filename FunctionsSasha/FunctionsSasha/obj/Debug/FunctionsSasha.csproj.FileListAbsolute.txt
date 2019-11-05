@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\FunctionsSasha\FunctionsSasha\bin\Debug\FunctionsSasha.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\FunctionsSasha\FunctionsSasha\bin\Debug\FunctionsSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\FunctionsSasha\FunctionsSasha\bin\Debug\FunctionsSasha.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\FunctionsSasha\FunctionsSasha\obj\Debug\FunctionsSasha.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\FunctionsSasha\FunctionsSasha\obj\Debug\FunctionsSasha.frmFunctions.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\FunctionsSasha\FunctionsSasha\obj\Debug\FunctionsSasha.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\FunctionsSasha\FunctionsSasha\obj\Debug\FunctionsSasha.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\FunctionsSasha\FunctionsSasha\obj\Debug\FunctionsSasha.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\FunctionsSasha\FunctionsSasha\obj\Debug\FunctionsSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\FunctionsSasha\FunctionsSasha\obj\Debug\FunctionsSasha.pdb

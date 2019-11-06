@@ -48,7 +48,7 @@ namespace FunctionsSasha
             radius = double.Parse(txtRadius.Text);
             height = double.Parse(txtHeight.Text);
 
-            // call the function  to calculate the volume of the cylinder
+            // call the function to calculate the volume of the cylinder
             userVolume = CalculateVolume(radius, height);
 
             // display the volume of the cylinder

@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures &
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\HypotenuseSasha\HypotenuseSasha\obj\Debug\HypotenuseSasha.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\HypotenuseSasha\HypotenuseSasha\obj\Debug\HypotenuseSasha.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\HypotenuseSasha\HypotenuseSasha\obj\Debug\HypotenuseSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\HypotenuseSasha\HypotenuseSasha\bin\Debug\HypotenuseSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\HypotenuseSasha\HypotenuseSasha\bin\Debug\HypotenuseSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\HypotenuseSasha\HypotenuseSasha\bin\Debug\HypotenuseSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\HypotenuseSasha\HypotenuseSasha\obj\Debug\HypotenuseSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\HypotenuseSasha\HypotenuseSasha\obj\Debug\HypotenuseSasha.frmHypotenuse.resources
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\HypotenuseSasha\HypotenuseSasha\obj\Debug\HypotenuseSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\HypotenuseSasha\HypotenuseSasha\obj\Debug\HypotenuseSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\HypotenuseSasha\HypotenuseSasha\obj\Debug\HypotenuseSasha.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\HypotenuseSasha\HypotenuseSasha\obj\Debug\HypotenuseSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\HypotenuseSasha\HypotenuseSasha\obj\Debug\HypotenuseSasha.pdb

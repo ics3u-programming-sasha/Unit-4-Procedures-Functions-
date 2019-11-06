@@ -40,20 +40,20 @@
             // lblSideA
             // 
             this.lblSideA.AutoSize = true;
-            this.lblSideA.Font = new System.Drawing.Font("Adobe Devanagari", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSideA.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSideA.Location = new System.Drawing.Point(230, 112);
             this.lblSideA.Name = "lblSideA";
-            this.lblSideA.Size = new System.Drawing.Size(68, 28);
+            this.lblSideA.Size = new System.Drawing.Size(74, 24);
             this.lblSideA.TabIndex = 0;
             this.lblSideA.Text = "Side A:";
             // 
             // lblSideB
             // 
             this.lblSideB.AutoSize = true;
-            this.lblSideB.Font = new System.Drawing.Font("Adobe Devanagari", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSideB.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSideB.Location = new System.Drawing.Point(230, 183);
             this.lblSideB.Name = "lblSideB";
-            this.lblSideB.Size = new System.Drawing.Size(67, 28);
+            this.lblSideB.Size = new System.Drawing.Size(75, 24);
             this.lblSideB.TabIndex = 2;
             this.lblSideB.Text = "Side B:";
             // 
@@ -74,10 +74,10 @@
             // lblEnter
             // 
             this.lblEnter.AutoSize = true;
-            this.lblEnter.Font = new System.Drawing.Font("Adobe Devanagari", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEnter.Location = new System.Drawing.Point(250, 47);
+            this.lblEnter.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEnter.Location = new System.Drawing.Point(231, 48);
             this.lblEnter.Name = "lblEnter";
-            this.lblEnter.Size = new System.Drawing.Size(284, 28);
+            this.lblEnter.Size = new System.Drawing.Size(316, 24);
             this.lblEnter.TabIndex = 5;
             this.lblEnter.Text = "Enter the lengths for Side A and B.";
             // 
@@ -95,12 +95,11 @@
             // lblHypotenuse
             // 
             this.lblHypotenuse.AutoSize = true;
-            this.lblHypotenuse.Font = new System.Drawing.Font("Adobe Devanagari", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblHypotenuse.Location = new System.Drawing.Point(278, 356);
+            this.lblHypotenuse.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHypotenuse.Location = new System.Drawing.Point(263, 354);
             this.lblHypotenuse.Name = "lblHypotenuse";
-            this.lblHypotenuse.Size = new System.Drawing.Size(20, 28);
+            this.lblHypotenuse.Size = new System.Drawing.Size(0, 24);
             this.lblHypotenuse.TabIndex = 7;
-            this.lblHypotenuse.Text = "?";
             // 
             // frmHypotenuse
             // 

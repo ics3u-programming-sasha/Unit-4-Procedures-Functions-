@@ -36,16 +36,16 @@
             // lblEnter
             // 
             this.lblEnter.AutoSize = true;
-            this.lblEnter.Font = new System.Drawing.Font("DejaVu Sans Condensed", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEnter.Location = new System.Drawing.Point(219, 79);
+            this.lblEnter.Font = new System.Drawing.Font("Myanmar Text", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEnter.Location = new System.Drawing.Point(196, 83);
             this.lblEnter.Name = "lblEnter";
-            this.lblEnter.Size = new System.Drawing.Size(136, 24);
+            this.lblEnter.Size = new System.Drawing.Size(194, 37);
             this.lblEnter.TabIndex = 0;
-            this.lblEnter.Text = "Enter a level:";
+            this.lblEnter.Text = "Enter a grade level:";
             // 
             // txtLevel
             // 
-            this.txtLevel.Location = new System.Drawing.Point(396, 83);
+            this.txtLevel.Location = new System.Drawing.Point(433, 91);
             this.txtLevel.Name = "txtLevel";
             this.txtLevel.Size = new System.Drawing.Size(100, 20);
             this.txtLevel.TabIndex = 2;
@@ -53,7 +53,7 @@
             // btnConvert
             // 
             this.btnConvert.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnConvert.Location = new System.Drawing.Point(320, 190);
+            this.btnConvert.Location = new System.Drawing.Point(346, 199);
             this.btnConvert.Name = "btnConvert";
             this.btnConvert.Size = new System.Drawing.Size(91, 35);
             this.btnConvert.TabIndex = 3;

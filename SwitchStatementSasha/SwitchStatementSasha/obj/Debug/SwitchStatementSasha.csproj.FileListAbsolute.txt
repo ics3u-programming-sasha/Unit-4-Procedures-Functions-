@@ -1,0 +1,10 @@
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\SwitchStatementSasha\SwitchStatementSasha\bin\Debug\SwitchStatementSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\SwitchStatementSasha\SwitchStatementSasha\bin\Debug\SwitchStatementSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\SwitchStatementSasha\SwitchStatementSasha\bin\Debug\SwitchStatementSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\SwitchStatementSasha\SwitchStatementSasha\obj\Debug\SwitchStatementSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\SwitchStatementSasha\SwitchStatementSasha\obj\Debug\SwitchStatementSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\SwitchStatementSasha\SwitchStatementSasha\obj\Debug\SwitchStatementSasha.frmSwitchStatement.resources
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\SwitchStatementSasha\SwitchStatementSasha\obj\Debug\SwitchStatementSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\SwitchStatementSasha\SwitchStatementSasha\obj\Debug\SwitchStatementSasha.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\SwitchStatementSasha\SwitchStatementSasha\obj\Debug\SwitchStatementSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\SwitchStatementSasha\SwitchStatementSasha\obj\Debug\SwitchStatementSasha.pdb

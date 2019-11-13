@@ -1,0 +1,10 @@
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\PassByRefSasha\PassByRefSasha\bin\Debug\PassByRefSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\PassByRefSasha\PassByRefSasha\bin\Debug\PassByRefSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\PassByRefSasha\PassByRefSasha\bin\Debug\PassByRefSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\PassByRefSasha\PassByRefSasha\obj\Debug\PassByRefSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\PassByRefSasha\PassByRefSasha\obj\Debug\PassByRefSasha.frmPassByRef.resources
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\PassByRefSasha\PassByRefSasha\obj\Debug\PassByRefSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\PassByRefSasha\PassByRefSasha\obj\Debug\PassByRefSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\PassByRefSasha\PassByRefSasha\obj\Debug\PassByRefSasha.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\PassByRefSasha\PassByRefSasha\obj\Debug\PassByRefSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\PassByRefSasha\PassByRefSasha\obj\Debug\PassByRefSasha.pdb

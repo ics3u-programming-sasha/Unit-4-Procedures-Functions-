@@ -239,5 +239,167 @@
   <ItemGroup>
     <None Include="Resources\QS.JPG" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoC.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AC1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AD1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AH1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AS1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EightC.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EightD.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EightH.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EightS.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FiveC.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FiveD.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FiveH.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FiveS.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourC.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourD.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourH.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourS.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Front1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JC1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JD1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JH1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JS1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KC1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KD1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KH1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KS1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NineC.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NineD.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NineH.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NineS.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QC1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QD1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QH1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QS1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SevenC.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SevenD.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SevenH.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SevenS.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixC.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixD.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixH.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixS.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TenC.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TenD.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TenH.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TenS.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThreeC.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThreeD.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThreeH.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThreeS.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoC1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoD.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoH.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoS.JPG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -36,17 +36,17 @@
             // lblClick
             // 
             this.lblClick.AutoSize = true;
-            this.lblClick.Font = new System.Drawing.Font("Adobe Devanagari", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblClick.Location = new System.Drawing.Point(240, 43);
+            this.lblClick.Font = new System.Drawing.Font("Yu Gothic", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblClick.Location = new System.Drawing.Point(219, 46);
             this.lblClick.Name = "lblClick";
-            this.lblClick.Size = new System.Drawing.Size(261, 28);
+            this.lblClick.Size = new System.Drawing.Size(332, 27);
             this.lblClick.TabIndex = 0;
             this.lblClick.Text = "Click on the image to change it.";
             // 
             // picCard
             // 
             this.picCard.Image = global::PassByRefSasha.Properties.Resources.Front;
-            this.picCard.Location = new System.Drawing.Point(258, 87);
+            this.picCard.Location = new System.Drawing.Point(274, 88);
             this.picCard.Name = "picCard";
             this.picCard.Size = new System.Drawing.Size(231, 326);
             this.picCard.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;

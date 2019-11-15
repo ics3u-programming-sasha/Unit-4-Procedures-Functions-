@@ -1,0 +1,10 @@
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\RoundDecimalSasha\RoundDecimalSasha\bin\Debug\RoundDecimalSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\RoundDecimalSasha\RoundDecimalSasha\bin\Debug\RoundDecimalSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\RoundDecimalSasha\RoundDecimalSasha\bin\Debug\RoundDecimalSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\RoundDecimalSasha\RoundDecimalSasha\obj\Debug\RoundDecimalSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\RoundDecimalSasha\RoundDecimalSasha\obj\Debug\RoundDecimalSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\RoundDecimalSasha\RoundDecimalSasha\obj\Debug\RoundDecimalSasha.frmRoundDecimal.resources
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\RoundDecimalSasha\RoundDecimalSasha\obj\Debug\RoundDecimalSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\RoundDecimalSasha\RoundDecimalSasha\obj\Debug\RoundDecimalSasha.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\RoundDecimalSasha\RoundDecimalSasha\obj\Debug\RoundDecimalSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\RoundDecimalSasha\RoundDecimalSasha\obj\Debug\RoundDecimalSasha.pdb

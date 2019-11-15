@@ -32,7 +32,7 @@
             this.txtValue = new System.Windows.Forms.TextBox();
             this.lblDecimal = new System.Windows.Forms.Label();
             this.nudDecimal = new System.Windows.Forms.NumericUpDown();
-            this.Round = new System.Windows.Forms.Button();
+            this.lblRound = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.nudDecimal)).BeginInit();
             this.SuspendLayout();
             // 
@@ -40,7 +40,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Constantia", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(118, 79);
+            this.label1.Location = new System.Drawing.Point(165, 79);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(231, 26);
             this.label1.TabIndex = 1;
@@ -48,7 +48,7 @@
             // 
             // txtValue
             // 
-            this.txtValue.Location = new System.Drawing.Point(432, 85);
+            this.txtValue.Location = new System.Drawing.Point(453, 85);
             this.txtValue.Name = "txtValue";
             this.txtValue.Size = new System.Drawing.Size(186, 20);
             this.txtValue.TabIndex = 2;
@@ -57,7 +57,7 @@
             // 
             this.lblDecimal.AutoSize = true;
             this.lblDecimal.Font = new System.Drawing.Font("Constantia", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblDecimal.Location = new System.Drawing.Point(28, 209);
+            this.lblDecimal.Location = new System.Drawing.Point(35, 209);
             this.lblDecimal.Name = "lblDecimal";
             this.lblDecimal.Size = new System.Drawing.Size(470, 26);
             this.lblDecimal.TabIndex = 3;
@@ -65,7 +65,7 @@
             // 
             // nudDecimal
             // 
-            this.nudDecimal.Location = new System.Drawing.Point(551, 215);
+            this.nudDecimal.Location = new System.Drawing.Point(551, 209);
             this.nudDecimal.Maximum = new decimal(new int[] {
             10,
             0,
@@ -75,15 +75,16 @@
             this.nudDecimal.Size = new System.Drawing.Size(120, 20);
             this.nudDecimal.TabIndex = 4;
             // 
-            // Round
+            // lblRound
             // 
-            this.Round.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Round.Location = new System.Drawing.Point(334, 331);
-            this.Round.Name = "Round";
-            this.Round.Size = new System.Drawing.Size(101, 40);
-            this.Round.TabIndex = 5;
-            this.Round.Text = "Round";
-            this.Round.UseVisualStyleBackColor = true;
+            this.lblRound.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblRound.Location = new System.Drawing.Point(334, 291);
+            this.lblRound.Name = "lblRound";
+            this.lblRound.Size = new System.Drawing.Size(101, 40);
+            this.lblRound.TabIndex = 5;
+            this.lblRound.Text = "Round";
+            this.lblRound.UseVisualStyleBackColor = true;
+            this.lblRound.Click += new System.EventHandler(this.LblRound_Click);
             // 
             // frmRoundDecimal
             // 
@@ -91,7 +92,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Thistle;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.Round);
+            this.Controls.Add(this.lblRound);
             this.Controls.Add(this.nudDecimal);
             this.Controls.Add(this.lblDecimal);
             this.Controls.Add(this.txtValue);
@@ -110,7 +111,7 @@
         private System.Windows.Forms.TextBox txtValue;
         private System.Windows.Forms.Label lblDecimal;
         private System.Windows.Forms.NumericUpDown nudDecimal;
-        private System.Windows.Forms.Button Round;
+        private System.Windows.Forms.Button lblRound;
     }
 }
 

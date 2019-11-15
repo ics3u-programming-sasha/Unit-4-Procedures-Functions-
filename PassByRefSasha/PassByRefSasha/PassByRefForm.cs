@@ -29,6 +29,7 @@ namespace PassByRefSasha
 
         // Procedure: ChangeCard
         // Input: ref PictureBox aPictureBox, int cardNumber
+        // Output: void
         // Description: This procedure takes a picture box passed by reference and a card number. It assigns the image
         // in the picture box to the card with the given card number.
         private void ChangeCard(ref PictureBox aPictureBox, int cardNumber)

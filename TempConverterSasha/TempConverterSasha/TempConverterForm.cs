@@ -25,11 +25,11 @@ namespace TempConverterSasha
             InitializeComponent();
         }
 
-        //Function: CalculateTemp
-        //Input: double celsius
-        //Output: void
-        //Description: This function takes the degrees Celsius passed by value and displays a 
-        //message box with the conversion of Celsius to Fahrenheit.
+        // Function: CalculateTemp
+        // Input: double celsius
+        // Output: void
+        // Description: This function takes the degrees Celsius passed by value and displays a 
+        // message box with the conversion of Celsius to Fahrenheit.
         public void CalculateTemp(Double celsius)
         {
             // declare local variable

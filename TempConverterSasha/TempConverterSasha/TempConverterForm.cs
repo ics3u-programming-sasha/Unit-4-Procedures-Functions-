@@ -25,7 +25,7 @@ namespace TempConverterSasha
             InitializeComponent();
         }
 
-        //Function: Calculatetemp
+        //Function: CalculateTemp
         //Input: double celsius
         //Output: void
         //Description: This function takes the degrees Celsius passed by value and displays a 

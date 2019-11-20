@@ -1,0 +1,20 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.frmNewWalkingMan.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\NewWalkingManSasha\NewWalkingManSasha\bin\Debug\NewWalkingManSasha.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\NewWalkingManSasha\NewWalkingManSasha\bin\Debug\NewWalkingManSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\NewWalkingManSasha\NewWalkingManSasha\bin\Debug\NewWalkingManSasha.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 4 (Procedures & Functions)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\NewWalkingManSasha\NewWalkingManSasha\bin\Debug\NewWalkingManSasha.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\NewWalkingManSasha\NewWalkingManSasha\bin\Debug\NewWalkingManSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\NewWalkingManSasha\NewWalkingManSasha\bin\Debug\NewWalkingManSasha.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.frmNewWalkingMan.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\NewWalkingManSasha\NewWalkingManSasha\obj\Debug\NewWalkingManSasha.pdb

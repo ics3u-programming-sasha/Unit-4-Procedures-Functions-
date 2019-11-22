@@ -1,0 +1,9 @@
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\StringEqualitySasha\StringEqualitySasha\bin\Debug\StringEqualitySasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\StringEqualitySasha\StringEqualitySasha\bin\Debug\StringEqualitySasha.exe
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\StringEqualitySasha\StringEqualitySasha\bin\Debug\StringEqualitySasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\StringEqualitySasha\StringEqualitySasha\obj\Debug\StringEqualitySasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\StringEqualitySasha\StringEqualitySasha\obj\Debug\StringEqualitySasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\StringEqualitySasha\StringEqualitySasha\obj\Debug\StringEqualitySasha.frmStringEquality.resources
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\StringEqualitySasha\StringEqualitySasha\obj\Debug\StringEqualitySasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\StringEqualitySasha\StringEqualitySasha\obj\Debug\StringEqualitySasha.exe
+C:\Users\S\Documents\ICS3U\Unit-4-Procedures-Functions-\StringEqualitySasha\StringEqualitySasha\obj\Debug\StringEqualitySasha.pdb
